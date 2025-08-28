@@ -1,12 +1,12 @@
-**Windows Auto System Application**
+## Windows Auto System Application
 
 
-**Description**
+## Description
 
 A Windows-based VB.NET application that manages user data with full CRUD functionality (Create, Read, Update, Delete).
 Designed as a basic automated system for record management, it allows smooth handling of user records through a simple Windows Forms interface.
 
-**Features**
+## Features
 
 User registration and profile management
 
@@ -16,7 +16,7 @@ Simple and intuitive Windows Forms interface
 
 Input validation and error handling
 
-**Technologies**
+## Technologies
 
 VB.NET (Windows Forms)
 
@@ -24,7 +24,7 @@ MySQL / MS Access (Database)
 
 ADO.NET for database connectivity
 
-**How to Run**
+## How to Run
 
 Clone this repository via SSH:
 
@@ -37,7 +37,7 @@ Configure the database connection settings.
 
 Build and run the project.
 
-👨‍💻 **Author**
+## 👨‍💻 Author
 
 ADEYEMI AYOBAMI SAMSON
 
