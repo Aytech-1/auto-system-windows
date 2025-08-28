@@ -1,0 +1,53 @@
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\AUTOSYSTEM AFOO 25.exe
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\AUTOSYSTEM AFOO 25.pdb
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\AUTOSYSTEM AFOO 25.xml
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\Guna.UI2.dll
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.overlay.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.main.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.Resources.resources
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.vbproj.GenerateResource.Cache
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.exe
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.xml
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.pdb
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\MySql.Data.DLL
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.vbprojResolveAssemblyReference.cache
+C:\Users\King Semako\Documents\Visual Studio 2010\Projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.user_record.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.exe
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.xml
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.pdb
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\AUTOSYSTEM AFOO 25.exe
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\AUTOSYSTEM AFOO 25.pdb
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\AUTOSYSTEM AFOO 25.xml
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.vbprojResolveAssemblyReference.cache
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.overlay.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.main.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.Resources.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.user_record.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\allProject\AfooTECHprojects\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.exe
+C:\xampp\htdocs\allProject\AfooTECHprojects\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.xml
+C:\xampp\htdocs\allProject\AfooTECHprojects\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.pdb
+C:\xampp\htdocs\AfooTECHproject\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.exe
+C:\xampp\htdocs\AfooTECHproject\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.xml
+C:\xampp\htdocs\AfooTECHproject\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.pdb
+C:\xampp\htdocs\AfooTECHproject\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\AUTOSYSTEM AFOO 25.exe
+C:\xampp\htdocs\AfooTECHproject\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\AUTOSYSTEM AFOO 25.pdb
+C:\xampp\htdocs\AfooTECHproject\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\AUTOSYSTEM AFOO 25.xml
+C:\xampp\htdocs\AfooTECHproject\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\AfooTECHproject\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.overlay.resources
+C:\xampp\htdocs\AfooTECHproject\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.main.resources
+C:\xampp\htdocs\AfooTECHproject\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.Resources.resources
+C:\xampp\htdocs\AfooTECHproject\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.user_record.resources
+C:\xampp\htdocs\AfooTECHproject\window-projects\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.vbproj.GenerateResource.Cache
+C:\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.exe
+C:\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.xml
+C:\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.pdb
+C:\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\AUTOSYSTEM AFOO 25.exe
+C:\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\AUTOSYSTEM AFOO 25.pdb
+C:\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\bin\Debug\AUTOSYSTEM AFOO 25.xml
+C:\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.vbprojResolveAssemblyReference.cache
+C:\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.overlay.resources
+C:\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.main.resources
+C:\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.Resources.resources
+C:\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM_AFOO_25.user_record.resources
+C:\AUTOSYSTEM AFOO 25\AUTOSYSTEM AFOO 25\obj\x86\Debug\AUTOSYSTEM AFOO 25.vbproj.GenerateResource.Cache
